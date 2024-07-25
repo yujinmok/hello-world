@@ -27,10 +27,10 @@
 >> 인간의 정체성은 생산을 통해 달성된다.
 
 ### Inline Code
-1차 방정식 ''y = ax + b'' 공식입니다.
+1차 방정식 'y = ax + b' 공식입니다.
 
 ### Syntax Highlight
-'''javascript
+''' javascript
 function sum(a,b) {
   x = a + b
 }
