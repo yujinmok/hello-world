@@ -30,8 +30,23 @@
 1차 방정식 'y = ax + b' 공식입니다.
 
 ### Syntax Highlight
-''' javascript
+'''javascript
 function sum(a,b) {
   x = a + b
 }
 '''
+
+'''python
+def sum(a,b):
+  x = a + b
+  return x
+'''
+
+### task lisk
+[x] 자료조사
+[x] 자료정리
+[] 자료취합
+[] 문서작업
+
+
+
