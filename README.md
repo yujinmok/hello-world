@@ -27,26 +27,38 @@
 >> 인간의 정체성은 생산을 통해 달성된다.
 
 ### Inline Code
-1차 방정식 'y = ax + b' 공식입니다.
+1차 방정식 `y = ax + b` 공식입니다.
 
 ### Syntax Highlight
-'''javascript
+```javascript
 function sum(a,b) {
   x = a + b
 }
-'''
+```
 
-'''python
+```python
 def sum(a,b):
   x = a + b
   return x
-'''
+```
 
 ### task lisk
-[x] 자료조사
-[x] 자료정리
-[] 자료취합
-[] 문서작업
+- [x] 자료조사
+- [x] 자료정리
+- [x] 자료취합
+- [ ] 문서작업
 
+### Table
+번호 | 이름 | 내용
+-----|-----|------|
+1 | 홍길동 | 자료조사
+2 | 고길동 | 자료정리
+3 | 김길동 | 자료취합
+
+### Strikethrough
+- [x] 자료조사
+- [x] 자료정리
+- [x] 자료취합
+- [ ] ~문서작업~
 
 
